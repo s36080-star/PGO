@@ -3,23 +3,23 @@
 ## Opis repozytorium
 
 Projekt laboratoryjny na przedmiot **PGO** (Programowanie Grupowe i Obiektowe)  
-Polsko-Japońska Akademia Technik Komputerowych
+
 
 Celem ćwiczeń jest opanowanie podstaw pracy z repozytorium Git, publikacji kodu na GitHubie,
 tworzenia gałęzi oraz ich scalania.
 
-## Autor
 
-Imię i nazwisko: *(uzupełnij)*  
-Nr indeksu: *(uzupełnij)*
 
-## Struktura repozytorium
+Imię i nazwisko: Bazyl Nowicki
+Nr indeksu: s36080
+
+
 
 ```
 pgo-git-start/
-├── README.md       # opis projektu, autor, cel ćwiczeń
+├── README.md       
 └── src/
-    └── Main.java   # główna klasa uruchamiająca program
+    └── Main.java   
 ```
 
 ## Gałęzie

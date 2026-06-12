@@ -1,7 +1,4 @@
-/**
- * Klasa pomocnicza wyświetlająca informacje o aplikacji.
- * Dodana w gałęzi feature/info.
- */
+
 public class AppInfo {
 
     private static final String APP_NAME    = "pgo-git-start";
@@ -11,10 +8,10 @@ public class AppInfo {
 
     public void printInfo() {
         System.out.println("----------------------------------------");
-        System.out.println("Aplikacja : " + APP_NAME);
-        System.out.println("Wersja    : " + VERSION);
-        System.out.println("Przedmiot : " + SUBJECT);
-        System.out.println("Uczelnia  : " + UNIVERSITY);
+        System.out.println("Aplikacja : " );
+        System.out.println("Wersja    : " );
+        System.out.println("Przedmiot : " );
+        System.out.println("Uczelnia  : " );
         System.out.println("----------------------------------------");
     }
 }
